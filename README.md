@@ -1,3 +1,5 @@
+Je développe cette plateforme sur mon ordinateur tournant sous **Linux Mint**.
+
 # AdTech Platform
 
 Une mini plateforme de gestion de campagnes publicitaires (AdTech) fullstack.
@@ -53,7 +55,7 @@ npm start
 \`\`\`
 Le serveur démarrera sur http://localhost:5000
 
-### 2. Frontend
+### 2. Frontendgit co
 
 \`\`\`bash
 cd frontend
