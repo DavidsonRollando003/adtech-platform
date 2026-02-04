@@ -1,0 +1,31 @@
+nohup: les entrées sont ignorées
+
+> frontend@0.1.0 dev
+> next dev
+
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/di/package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * /home/di/adtech-platform/frontend/package-lock.json
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.118:3000
+
+✓ Starting...
+✓ Ready in 946ms
+ HEAD / 307 in 1376ms (compile: 755ms, render: 621ms)
+ GET / 307 in 213ms (compile: 10ms, render: 203ms)
+ GET /campaigns 200 in 213ms (compile: 42ms, render: 171ms)
+ GET /campaigns/6982d2242aae20d3f9abd15d 200 in 1002ms (compile: 920ms, render: 83ms)
+ GET /campaigns/69824813f1ba65f09b155a0b 200 in 90ms (compile: 36ms, render: 55ms)
+ GET /campaigns/new 200 in 124ms (compile: 62ms, render: 61ms)
+ GET / 307 in 475ms (compile: 22ms, render: 454ms)
+ GET /campaigns 200 in 152ms (compile: 6ms, render: 145ms)
+ GET /campaigns/6982d2242aae20d3f9abd15d 200 in 148ms (compile: 66ms, render: 82ms)
+ GET /campaigns/69824813f1ba65f09b155a0b 200 in 86ms (compile: 33ms, render: 53ms)
+ GET / 307 in 263ms (compile: 6ms, render: 257ms)
+ GET /campaigns 200 in 144ms (compile: 4ms, render: 141ms)
+ GET /campaigns/69823d4bf1ba65f09b155a00 200 in 97ms (compile: 37ms, render: 61ms)
