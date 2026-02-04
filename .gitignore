@@ -5,3 +5,9 @@ dist
 build
 .DS_Store
 coverage
+
+# Ignore editor settings and local logs
+.vscode/
+*.log
+backend/backend.log
+frontend/frontend.log
